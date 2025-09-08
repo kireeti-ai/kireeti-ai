@@ -2,7 +2,7 @@
 
 🎓 3rd year B.Tech student at Amrita Vishwa Vidyapeetham  
 💻 Interested in Full Stack Web Development & AI/ML  
-🚀 Building a Smart Locker Delivery System startup idea  
+🚀 Building a Food Delivery Website -Snap Dish
 🌱 Currently learning React, Node.js, and Cloud  
 
 ### 🛠️ Tech Stack
