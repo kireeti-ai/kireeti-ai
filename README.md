@@ -6,17 +6,17 @@
 
 <img align="right" width=200px alt="Coding" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
 
-I’m a **3rd Year B.Tech Computer Science student** at Amrita Vishwa Vidyapeetham 🎓.  
-Passionate about **Full Stack Development and AI/ML**, and working on building a **Food delivery Website** .  
-I enjoy solving problems, creating impactful projects, and learning cutting-edge tech.  
+I’m a 3rd Year B.Tech Computer Science student at Amrita Vishwa Vidyapeetham.  
+I am passionate about Full Stack Development and AI/ML, and currently building a Food Delivery Website.  
+I enjoy solving problems, creating impactful projects, and exploring the latest technologies.  
 
--  Currently learning:
-  - *React & Node.js*
-  - *Generative AI*
--  Love working on exciting projects and collaborating with people.  
--  Open to helping others with web dev & coding.  
--  Outside tech: gaming, movies, music.  
--  Reach me at: <a href="mailto:kireetiv2005@gmail.com">kireetiv2005@gmai.com</a>  
+- Currently learning:  
+  - React & Node.js  
+  - Generative AI  
+- Excited to work on challenging projects and collaborate with others  
+- Open to helping with web development and coding  
+- Beyond tech: I enjoy gaming, movies, and music  
+- Reach me at: <a href="mailto:kireetiv2005@gmail.com">kireetiv2005@gmail.com</a>  
 
 <br>
 
