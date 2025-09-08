@@ -99,11 +99,11 @@ While it resembles popular services like Zomato and Swiggy, it stands out by off
 <table align="center">
 <tr>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kireetiv&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kireetiv&theme=nightowl&hide_border=false" alt="streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kireeti-ai&theme=nightowl&show_icons=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kireeti-ai&theme=nightowl&hide_border=false" alt="streak" />
 </td>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kireetiv&theme=nightowl&hide_border=false&langs_count=10"/>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kireeti-ai&theme=nightowl&hide_border=false&langs_count=10"/>
 </td>
 </tr>
 </table>
