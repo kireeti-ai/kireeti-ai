@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋, I'm Kireeti  
 
-<!--
-**kireeti-ai/kireeti-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd year B.Tech student at Amrita Vishwa Vidyapeetham  
+💻 Interested in Full Stack Web Development & AI/ML  
+🚀 Building a Smart Locker Delivery System startup idea  
+🌱 Currently learning React, Node.js, and Cloud  
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- Languages: C++, JavaScript, Python  
+- Frameworks: React, Node.js, Express  
+- Tools: Git, Docker, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me
+- [LinkedIn](https://linkedin.com/in/kireeti-ai)  
+- [Email](mailto:kireetiv2005@gmail.com)  
