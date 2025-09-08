@@ -78,7 +78,7 @@ I enjoy solving problems, creating impactful projects, and learning cutting-edge
     <td width="50%">
       <h3 align="center"> Food Delivery(Snap Dish)</h3>
       <div align="center">
-        <img src="https://github.com/kireeti-ai/snap-dish.git/logo-snapdish.png" width="120" alt="snap">
+        <img src="[https://github.com/kireeti-ai/snap-dish.git/logo-snapdish.png](https://github.com/kireeti-ai/Snap-dish/blob/main/logo-snapdish.png)" width="120" alt="snap">
         <p>
           <a href="https://github.com/kireeti-ai/snap-dish.git" target="_blank">
             <img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github&logoColor=white">
