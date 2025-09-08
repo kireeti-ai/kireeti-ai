@@ -7,7 +7,7 @@
 <img align="right" width=200px alt="Coding" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
 
 I’m a **3rd Year B.Tech Computer Science student** at Amrita Vishwa Vidyapeetham 🎓.  
-Passionate about **Full Stack Development, Cloud, and AI/ML**, and working on building a **Smart Locker Delivery System** startup 🚀.  
+Passionate about **Full Stack Development and AI/ML**, and working on building a **Food delivery Website** .  
 I enjoy solving problems, creating impactful projects, and learning cutting-edge tech.  
 
 - 📚 Currently learning:
@@ -57,8 +57,11 @@ I enjoy solving problems, creating impactful projects, and learning cutting-edge
 
 ###### Databases:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
+###### Deployment & Cloud Services:
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)&nbsp;
 ###### Tools & Environments:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -73,15 +76,15 @@ I enjoy solving problems, creating impactful projects, and learning cutting-edge
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center"> Food Delivery(Snap - Dish)</h3>
+      <h3 align="center"> Food Delivery(Snap Dish)</h3>
       <div align="center">
-        <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/512/external-locker-smart-home-flaticons-flat-flat-icons.png" width="120" alt="Smart Locker Icon">
+        <img src="https://github.com/kireeti-ai/snap-dish.git/logo-snapdish.png" width="120" alt="snap">
         <p>
-          <a href="https://github.com/kireetiv/smart-locker" target="_blank">
+          <a href="https://github.com/kireeti-ai/snap-dish.git" target="_blank">
             <img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github&logoColor=white">
           </a>
         </p>
-        <p>🚀 A **The SnapDish Food Delivery**The SnapDish Food Delivery Website is an online platform developed to help users easily browse restaurants, explore menus, place orders, make payments, and track deliveries in real time. The product offers key features such as personalized recommendations, live order tracking, secure payment gateways, and a comprehensive admin dashboard to manage restaurants, menus, users, and delivery operations.
+        <p>The SnapDish Food Delivery Website is an online platform developed to help users easily browse restaurants, explore menus, place orders, make payments, and track deliveries in real time. The product offers key features such as personalized recommendations, live order tracking, secure payment gateways, and a comprehensive admin dashboard to manage restaurants, menus, users, and delivery operations.
 
 While it resembles popular services like Zomato and Swiggy, it stands out by offering lower commissions for small businesses, IoT-based delivery monitoring, and advanced customization options. The application is fully responsive, using a mobile-first design to ensure smooth performance across smartphones, tablets, and desktops.</p>
       </div>
@@ -108,16 +111,6 @@ While it resembles popular services like Zomato and Swiggy, it stands out by off
 </tr>
 </table>
 </p>
-<br>
 
-<!-- Visitor Counter -->
-<br>
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/kireetiv/count.svg">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-</div>
-<br>
-<br>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
