@@ -62,6 +62,7 @@ I enjoy solving problems, creating impactful projects, and exploring the latest 
 ###### Deployment & Cloud Services:
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)&nbsp;
+![Cloudinary](https://img.shields.io/badge/Cloudinary-%232B31A7.svg?style=for-the-badge&logo=cloudinary&logoColor=white)&nbsp;
 ###### Tools & Environments:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
