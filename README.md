@@ -9,10 +9,7 @@
 I’m a 3rd Year B.Tech Computer Science student at Amrita Vishwa Vidyapeetham.  
 I am passionate about Full Stack Development and AI/ML, and currently building a Food Delivery Website.  
 I enjoy solving problems, creating impactful projects, and exploring the latest technologies.  
-
-- Currently learning:  
-  - React & Node.js  
-  - Generative AI  
+ 
 - Excited to work on challenging projects and collaborate with others  
 - Open to helping with web development and coding  
 - Beyond tech: I enjoy gaming, movies, and music  
