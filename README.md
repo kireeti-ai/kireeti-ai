@@ -6,9 +6,7 @@
 
 <img align="right" width=200px alt="Coding" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
 
-I’m a 3rd Year B.Tech Computer Science student at Amrita Vishwa Vidyapeetham.  
-I am passionate about Full Stack Development and AI/ML, and currently building a Food Delivery Website.  
-I enjoy solving problems, creating impactful projects, and exploring the latest technologies.  
+I’m a 3rd Year B.Tech Computer Science student at Amrita Vishwa Vidyapeetham, specializing in Java backend development (Spring Boot), Data Structures & Algorithms, and Machine Learning. I'm also proficient in full-stack MERN development and passionate about building efficient, scalable, and data-driven applications. 
  
 - Excited to work on challenging projects and collaborate with others  
 - Open to helping with web development and coding  
@@ -37,9 +35,9 @@ I enjoy solving problems, creating impactful projects, and exploring the latest 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ###### Languages:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+
 
 <img align="right" width=310px alt="Coding gif" src="https://media1.tenor.com/m/XwmLgqDr19YAAAAC/colin-ritman-bandersnatch.gif"/>
 
@@ -49,6 +47,7 @@ I enjoy solving problems, creating impactful projects, and exploring the latest 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 ###### Backend:
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 
@@ -61,6 +60,7 @@ I enjoy solving problems, creating impactful projects, and exploring the latest 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)&nbsp;
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-%232B31A7.svg?style=for-the-badge&logo=cloudinary&logoColor=white)&nbsp;
 ###### Tools & Environments:
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
@@ -72,22 +72,48 @@ I enjoy solving problems, creating impactful projects, and exploring the latest 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center"> Food Delivery(Snap Dish)</h3>
-      <div align="center">
-        <img src="https://github.com/kireeti-ai/Snap-dish/blob/main/logo-snapdish.png?raw=true" width="120" alt="snap">
-        <p>
-          <a href="https://github.com/kireeti-ai/snap-dish.git" target="_blank">
-            <img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github&logoColor=white">
-          </a>
-        </p>
-        <p>The SnapDish Food Delivery Website is an online platform developed to help users easily browse restaurants, explore menus, place orders, make payments, and track deliveries in real time. The product offers key features such as personalized recommendations, live order tracking, secure payment gateways, and a comprehensive admin dashboard to manage restaurants, menus, users, and delivery operations.
-
-While it resembles popular services like Zomato and Swiggy, it stands out by offering lower commissions for small businesses, IoT-based delivery monitoring, and advanced customization options. The application is fully responsive, using a mobile-first design to ensure smooth performance across smartphones, tablets, and desktops.</p>
-      </div>
-    </td>
-  </tr>
+<tr>
+<td width="100%">
+<h3 align="center">Food Delivery Website</h3>
+<div align="center">
+<p>
+<a href="https://www.google.com/search?q=https://github.com/kireeti-ai/FoodDeliveryApp" target="_blank">
+<img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+<p><b>Tech Stack: React.js, Node.js, Express.js, MongoDB</b></p>
+<p style="text-align: left; padding: 0 20px;">Architected a full-stack MERN application, building a RESTful API with Node.js/Express.js for managing users, restaurants, and orders. Implemented secure user authentication and authorization using JSON Web Tokens (JWT). Developed a dynamic React frontend for browsing menus, managing a persistent shopping cart, and processing checkouts.</p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="100%">
+<h3 align="center">Quiz Application</h3>
+<div align="center">
+<p>
+<a href="https://www.google.com/search?q=https://github.com/kireeti-ai/Quiz" target="_blank">
+<img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+<p><b>Tech Stack: React.js, Spring Boot, PostgreSQL</b></p>
+<p style="text-align: left; padding: 0 20px;">Engineered a secure, multi-user backend using Spring Boot and Spring Security to manage quiz data and user roles. Designed and implemented REST APIs for full CRUD operations on questions, user scores, and categories, using PostgreSQL for data persistence. Built a responsive React frontend for users to take quizzes, view real-time scores, and track leaderboard positions.</p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="100%">
+<h3 align="center">Air Quality Prediction using Machine Learning</h3>
+<div align="center">
+<p>
+<a href="https://www.google.com/search?q=https://github.com/kireeti-ai/air-quality-prediction" target="_blank">
+<img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+<p><b>Tech Stack: Python, Scikit-learn, Pandas, Flask</b></p>
+<p style="text-align: left; padding: 0 20px;">Trained and optimized a 'Random Forest Regressor' model (Scikit-learn, Pandas) to predict AQI based on 8 key pollutant features (PM2.5, NO2, etc.). Applied feature engineering and preprocessing to real-world data to improve model accuracy. Developed and deployed a Flask-based REST API to serve the trained model, enabling real-time predictions from user input.</p>
+</div>
+</td>
+</tr>
 </table>
 
 <br>
