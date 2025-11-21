@@ -95,8 +95,8 @@ I’m a 3rd Year B.Tech Computer Science student at Amrita Vishwa Vidyapeetham, 
 <img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p><b>Tech Stack: React.js, Spring Boot, PostgreSQL</b></p>
-<p style="text-align: left; padding: 0 20px;">Engineered a secure, multi-user backend using Spring Boot and Spring Security to manage quiz data and user roles. Designed and implemented REST APIs for full CRUD operations on questions, user scores, and categories, using PostgreSQL for data persistence. Built a responsive React frontend for users to take quizzes, view real-time scores, and track leaderboard positions.</p>
+<p><b>Tech Stack: React.js, Spring Boot, MySQL</b></p>
+<p style="text-align: left; padding: 0 20px;">Engineered a secure, multi-user backend using Spring Boot and Spring Security to manage quiz data and user roles. Designed and implemented REST APIs for full CRUD operations on questions, user scores, and categories, using MySQL for data persistence. Built a responsive React frontend for users to take quizzes, view real-time scores, and track leaderboard positions.</p>
 </div>
 </td>
 </tr>
