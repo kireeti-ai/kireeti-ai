@@ -1,5 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there, I'm </b><a href="https://github.com/kireetiv">Kireeti</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1><b>Hi there, I'm </b><a href="https://github.com/kireeti-ai">Kireeti</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=35>&nbsp;***About me***
@@ -10,7 +10,8 @@ I’m a 3rd Year B.Tech Computer Science student at Amrita Vishwa Vidyapeetham, 
  
 - Excited to work on challenging projects and collaborate with others  
 - Open to helping with web development and coding  
-- Beyond tech: I enjoy gaming, movies, and music  
+- Beyond tech: I enjoy gaming, movies, and music
+- **My Portfolio:** <a href="https://portfolio-psi-sable-36.vercel.app/">View Portfolio Website</a> 
 - Reach me at: <a href="mailto:kireetiv2005@gmail.com">kireetiv2005@gmail.com</a>  
 
 <br>
