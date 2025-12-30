@@ -6,7 +6,7 @@ I enjoy building scalable, API-driven systems and solving real-world problems th
 - 🔧 Backend: Java, Spring Boot, REST APIs
 - 🌐 Full Stack: React, Node.js, Express, MongoDB
 - 📊 Data & ML: Python, Scikit-learn, Pandas
-- ☁️ DevOps: Docker, GitHub Actions, AWS (EC2, S3)
+- ☁️ DevOps:  GitHub Actions, AWS
 - 📚 Currently improving: DSA & system design fundamentals
 
 📫 **Contact:** vkireetiv2005@gmail.com  
