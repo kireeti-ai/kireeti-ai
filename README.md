@@ -3,8 +3,7 @@
 I’m a **3rd Year B.Tech Computer Science student** at **Amrita Vishwa Vidyapeetham**, with a strong focus on **Java backend development (Spring Boot)**, **Data Structures & Algorithms**, and **full-stack web development**.  
 I enjoy building scalable, API-driven systems and solving real-world problems through clean and maintainable code.
 
-- 🔧 Backend: Java, Spring Boot, REST APIs
-- 🌐 Full Stack: React, Node.js, Express, MongoDB
+- 🔧 Backend: Spring Boot,Node.js, Express,REST APIs
 - 📊 Data & ML: Python, Scikit-learn, Pandas
 - ☁️ DevOps:  GitHub Actions, AWS
 - 📚 Currently improving: DSA & system design fundamentals
