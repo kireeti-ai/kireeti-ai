@@ -1,69 +1,90 @@
 # Hi, I’m Kireeti 👋
 
-I’m a **3rd Year B.Tech Computer Science student** at **Amrita Vishwa Vidyapeetham**, with a strong focus on **Java backend development (Spring Boot)**, **Data Structures & Algorithms**, and **full-stack web development**.  
-I enjoy building scalable, API-driven systems and solving real-world problems through clean and maintainable code.
+I’m a **3rd Year B.Tech Computer Science student** at **Amrita Vishwa Vidyapeetham**, with a strong focus on **backend engineering**, **code intelligence systems**, **Data Structures & Algorithms**, and **full-stack development**.  
+I enjoy building scalable platforms, developer tools, and API-driven systems that solve real-world problems.
 
-- 🔧 Backend: Spring Boot,Node.js, Express,REST APIs
-- 📊 Data & ML: Python, Scikit-learn, Pandas
-- ☁️ DevOps:  GitHub Actions, AWS
-- 📚 Currently improving: DSA & system design fundamentals
+- 🔧 Backend: Spring Boot, Node.js, Express, REST APIs  
+- 📊 Data & ML: Python, Scikit-learn, Pandas  
+- ☁️ Cloud & DevOps: Azure, Docker, GitHub Actions  
+- 📚 Currently improving: DSA & system design fundamentals  
 
 📫 **Contact:** vkireetiv2005@gmail.com  
 🌐 **Portfolio:** https://portfolio-psi-sable-36.vercel.app  
-💼 **LinkedIn:** https://linkedin.com/in/kireeti-v
+💼 **LinkedIn:** https://linkedin.com/in/kireeti-v  
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
-**Languages**  
+### Languages
 Java, Python, C/C++, JavaScript, SQL, HTML, CSS  
 
-**Backend & Frameworks**  
+### Backend & Frameworks
 Spring Boot, Spring Security, Node.js, Express  
 
-**Frontend**  
+### Frontend
 React, Axios, React Router  
 
-**Databases**  
-MySQL, MongoDB  
+### Databases
+MySQL, MongoDB, PostgreSQL  
 
-**Libraries & Tools**  
-Hibernate/JPA, Jackson, Pandas, NumPy, Scikit-learn, Docker, Git, GitHub Actions, Postman  
+### Tools & Platforms
+Tree-sitter, Docker, Git, GitHub Actions, Azure, Postman  
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-### 🔹 SnapDish – Food Delivery Platform
-A multi-vendor food delivery system with customer, admin, and delivery-agent workflows.  
+## 🔹 DocPulseAI – Code Intelligence & Living Documentation Platform
+A platform that analyzes repositories and automatically generates **architecture insights, documentation, and developer impact analysis**.
+
+- AST-based repository analysis using **Tree-sitter**
+- Generates **API documentation, architecture diagrams, and dependency graphs**
+- Detects **documentation drift and breaking changes**
+- Microservices deployed using **Azure Container Apps**
+
+🔗 https://github.com/kireeti-ai/DocPulseAI
+
+---
+
+## 🔹 SnapDish – Food Delivery Platform
+A multi-vendor food delivery system with customer, admin, and delivery-agent workflows.
+
 - Role-based access control (RBAC)
 - RESTful APIs for orders and user management
-- Sales and performance analytics dashboards  
-🔗 https://github.com/kireeti-ai/FoodDeliveryApp
+- Sales and performance analytics dashboards
+
+🔗 https://github.com/kireeti-ai/Snap-dish
 
 ---
 
-### 🔹 Quizora – AI-Assisted Quiz Platform
-A quiz platform where **faculty provide topics** and the system **automatically generates questions** for students.  
+## 🔹 Quizora AI – Online Assessment Platform
+A quiz platform where **faculty provide topics** and the system **automatically generates questions** for students.
+
 - Faculty & student role separation
 - Automated quiz generation and evaluation
-- Secure REST APIs with authentication  
-🔗 https://github.com/kireeti-ai/Quiz
+- Secure REST APIs with authentication
+
+🔗 https://github.com/kireeti-ai/Quizora-ai
 
 ---
 
-### 🔹 Air Quality Prediction System
-Machine learning system to predict AQI using real-world pollution data.  
-- Random Forest model (91% accuracy)
-- Feature engineering & preprocessing
-- Flask-based REST API for real-time predictions  
+## 🔹 Air Quality Prediction System
+Machine learning system to predict AQI using real-world pollution data.
+
+- Random Forest model with high prediction accuracy
+- Feature engineering and exploratory data analysis
+- Flask-based REST API for predictions
+
 🔗 https://github.com/kireeti-ai/air-quality-prediction
 
 ---
 
-## 🚀 What I’m Looking For
+# 🚀 What I’m Looking For
+
 Backend / Full-Stack internships where I can:
-- Work on production-grade systems
-- Improve API design and system reliability
-- Learn from real engineering teams
+
+- Work on production-grade backend systems
+- Build scalable APIs and developer tools
+- Improve system design and reliability
+- Learn from experienced engineering teams
