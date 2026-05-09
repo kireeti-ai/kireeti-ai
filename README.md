@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=70&lines=Hey%2C+I'm+Kireeti+V+%F0%9F%91%8B;Backend+Engineer;Distributed+Systems;Developer+Tooling" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=8B949E&center=true&vCenter=true&width=500&height=30&lines=Building+fault-tolerant+%26+scalable+systems+%E2%9A%99%EF%B8%8F;Pre-final+year+CS+%40+Amrita+Vishwa+Vidyapeetham" alt="Subtitle" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=8B949E&center=true&vCenter=true&width=500&height=30&lines=Building+fault-tolerant+%26+scalable+systems+%E2%9A%99%EF%B8%8F;Final+year+CS+%40+Amrita+Vishwa+Vidyapeetham" alt="Subtitle" />
 
 <br/>
 
