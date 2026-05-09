@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kireeti--ten.vercel.app-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://kireeti-ten.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kireeti--v-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kireeti-v)
-[![Email](https://img.shields.io/badge/Email-vkireeti16%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vkireeti16@gmail.com)
+[![Email](https://img.shields.io/badge/Email-vkireetiv2005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vkireetiv2005@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=kireeti-v&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/kireeti-v)
 
 </div>
@@ -87,23 +87,6 @@ principles:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kireeti-v&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kireeti-v&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kireeti-v&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" />
-
-</div>
-
----
-
 ## ⚙️ Engineering Focus
 
 ```
@@ -119,16 +102,6 @@ principles:
 │  • Service meshes    │   • JWT + RBAC       │  • Circuit breakers│
 └──────────────────────┴──────────────────────┴───────────────────┘
 ```
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kireeti-v&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=6" />
-
-</div>
 
 ---
 
