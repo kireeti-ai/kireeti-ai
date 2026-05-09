@@ -84,23 +84,6 @@ principles:
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
----
-
-## ⚙️ Engineering Focus
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    SYSTEM DESIGN INTERESTS                      │
-├──────────────────────┬──────────────────────┬───────────────────┤
-│  Distributed Systems │   API Architecture   │   Reliability     │
-│  ─────────────────   │   ─────────────────  │  ─────────────    │
-│  • Consensus algos   │   • RESTful design   │  • Fault tolerance│
-│  • CAP theorem       │   • Event-driven     │  • Load balancing │
-│  • Data replication  │   • gRPC / GraphQL   │  • Caching layers │
-│  • Sharding          │   • API security     │  • Rate limiting  │
-│  • Service meshes    │   • JWT + RBAC       │  • Circuit breakers│
-└──────────────────────┴──────────────────────┴───────────────────┘
-```
 
 ---
 
