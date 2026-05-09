@@ -20,7 +20,7 @@
 name        : Kireeti V
 role        : Backend Engineer & CS Student
 university  : Amrita Vishwa Vidyapeetham
-year        : Pre-Final Year (B.Tech Computer Science)
+year        : Final Year (B.Tech Computer Science)
 location    : Hyderabad, India 🇮🇳
 
 interests:
