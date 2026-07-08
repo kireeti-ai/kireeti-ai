@@ -8,6 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kireeti--ten.vercel.app-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://kireeti-ten.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kireeti--v-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kireeti-v)
+[![LeetCode](https://img.shields.io/badge/LeetCode-kireeticodes-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kireeticodes/)
 [![Email](https://img.shields.io/badge/Email-vkireetiv2005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vkireetiv2005@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=kireeti-v&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/kireeti-v)
 
